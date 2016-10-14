@@ -1,1 +1,1 @@
-# Netease
+netease: archmagus
