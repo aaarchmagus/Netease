@@ -1,1 +1,3 @@
 netease: archmagus
+
+readme revised.
